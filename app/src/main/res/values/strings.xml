@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">Simple Butterknife</string>
+    <string name="change_text">Change Text</string>
+    <string name="butter_knife">Butter Knife!</string>
 </resources>
